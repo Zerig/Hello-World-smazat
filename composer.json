@@ -10,7 +10,8 @@
     ],
     "minimum-stability": "dev",
 	"require": {
-        "php": ">=5.6.0"
+        "php": ">=5.6.0",
+		"zerig/hello-world" : "dev-master"
     },
 	"autoload": {
         "psr-0": {
