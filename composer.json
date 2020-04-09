@@ -2,7 +2,6 @@
     "name": "zerig/hello-world",
     "description": "My first Composer project",
     "type": "library",
-    "license": "cc",
     "authors": [
         {
             "name": "Jeronym Pelikovsky",
